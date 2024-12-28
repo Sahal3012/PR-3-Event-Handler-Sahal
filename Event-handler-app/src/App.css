@@ -1,0 +1,18 @@
+
+.hover-paragraph {
+    color:chocolate;
+    font-size: x-large;
+    /* transition: color 0.10s linear; Smooth transition */
+  }
+  
+  .hover-paragraph:hover {
+    color:darkcyan;
+    font-weight: dark bolder;
+    font-size:xx-large;
+    transition: 0.70s linear;
+    border: solid 2px black;
+    background-color: black;
+
+    
+  }
+  
